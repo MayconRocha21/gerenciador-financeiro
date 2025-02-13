@@ -24,7 +24,7 @@ Este é um aplicativo simples de gerenciamento financeiro pessoal desenvolvido e
    ```
 3. Execute o script Python:
    ```
-   python finance_manager.py
+   python app.py
    ```
 
 ## Estrutura do Projeto
